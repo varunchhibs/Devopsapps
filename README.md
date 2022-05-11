@@ -1,2 +1,2 @@
 # Devopsapps - Devopsapps
-> Business Application
+> My Business Application
