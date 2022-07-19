@@ -1,6 +1,6 @@
 _schema-version: '3.2'
 ID: Devopsapps
-version: 0.0.18
+version: 0.0.19
 
 parameters:
   enable-parallel-deployments: true
